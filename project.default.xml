@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/.kscript/kscript_tmp_project__testksc.kts_1553867963041" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/adventOfCode" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/game/FXGL-GradleKt" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/ktor-koin-glei.do" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/oilfox-backend" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
