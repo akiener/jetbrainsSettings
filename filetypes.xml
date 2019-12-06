@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="day6test" type="PLAIN_TEXT" />
       <mapping pattern="day6" type="PLAIN_TEXT" />
       <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
