@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="07" type="PLAIN_TEXT" />
       <mapping pattern="05" type="PLAIN_TEXT" />
-      <mapping pattern="07test" type="PLAIN_TEXT" />
       <mapping pattern="05test" type="PLAIN_TEXT" />
+      <mapping pattern="07test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
