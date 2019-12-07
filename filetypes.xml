@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="07" type="PLAIN_TEXT" />
       <mapping pattern="05" type="PLAIN_TEXT" />
       <mapping pattern="05test" type="PLAIN_TEXT" />
