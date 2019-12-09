@@ -9,6 +9,7 @@
       <mapping pattern="08test" type="PLAIN_TEXT" />
       <mapping pattern="05test" type="PLAIN_TEXT" />
       <mapping pattern="07test" type="PLAIN_TEXT" />
+      <mapping pattern="09test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
