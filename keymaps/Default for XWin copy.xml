@@ -27,4 +27,11 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
