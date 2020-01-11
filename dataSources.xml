@@ -1,0 +1,22 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PROD" uuid="22bf8d61-56e4-4bc8-ac8b-617ca07372c0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://oilfox-prod.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Develop" uuid="bf9f2c9a-ca1c-475e-8ea3-67cae9786dde">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://oilfox-db-01-do-user-4436594-0.db.ondigitalocean.com:25060/oilfox</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Localhost" uuid="4b44def8-ed4f-4b4e-a608-6343a5a64699">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/oilfox</jdbc-url>
+    </data-source>
+  </component>
+</application>
