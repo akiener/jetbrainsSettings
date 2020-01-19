@@ -27,6 +27,9 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="ctrl alt #10000c4" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
