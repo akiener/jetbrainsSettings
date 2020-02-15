@@ -21,6 +21,9 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt #10000d6" />
+  </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
