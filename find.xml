@@ -14,5 +14,6 @@
     <mask>*repository.*</mask>
     <mask>*.dart</mask>
     <mask>*.kt</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
