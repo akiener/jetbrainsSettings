@@ -9,10 +9,10 @@
       <mapping pattern="05" type="PLAIN_TEXT" />
       <mapping pattern="08test" type="PLAIN_TEXT" />
       <mapping pattern="05test" type="PLAIN_TEXT" />
+      <mapping pattern="12" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc.js.backup" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="07test" type="PLAIN_TEXT" />
-      <mapping pattern="12" type="PLAIN_TEXT" />
       <mapping pattern="09test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
