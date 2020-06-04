@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="office.oilfox.io" id="2f1ecb05-da33-4bab-ad50-4bb4c17a8029" keyPath="$USER_HOME$/.ssh/id_rsa" nameFormat="DESCRIPTIVE" username="akiener" />
+    </configs>
+  </component>
+</application>
