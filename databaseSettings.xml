@@ -1,6 +1,12 @@
 <application>
   <component name="DatabaseSettings" version="4">
     <option name="page-size" value="10000" />
+    <option name="reuse-result-tab" value="false" />
+    <exec-options>
+      <exec-option new-tab="true" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
@@ -10,6 +16,7 @@
         <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
+        <parameter-pattern value="(?&lt;=\W|\A):(\d+|[a-zA-Z_](?:\w|\.)*)(?=\W|\z)" scope="JAVA,kotlin,Groovy" predefined=":a.b.c" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
