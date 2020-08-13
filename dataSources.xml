@@ -4,7 +4,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://oilfox-prod.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
+      <jdbc-url>jdbc:postgresql://oilfox-prod-crypt.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Develop" uuid="bf9f2c9a-ca1c-475e-8ea3-67cae9786dde">
       <driver-ref>postgresql</driver-ref>
