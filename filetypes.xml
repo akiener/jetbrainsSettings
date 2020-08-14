@@ -14,6 +14,7 @@
       <mapping pattern="09" type="PLAIN_TEXT" />
       <mapping pattern="09test" type="PLAIN_TEXT" />
       <mapping pattern="08test" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
