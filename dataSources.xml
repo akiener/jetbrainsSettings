@@ -12,7 +12,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://oilfox-db-01-do-user-4436594-0.db.ondigitalocean.com:25060/oilfox</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="oilfox@localhost" uuid="4b44def8-ed4f-4b4e-a608-6343a5a64699">
+    <data-source source="LOCAL" name="Localhost" uuid="4b44def8-ed4f-4b4e-a608-6343a5a64699">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
