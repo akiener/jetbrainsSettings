@@ -18,5 +18,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/oilfox</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Develop as doadmin" uuid="715bec30-fc37-4699-aa6e-e30da949ed6f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://oilfox-db-01-do-user-4436594-0.db.ondigitalocean.com:25060/oilfox</jdbc-url>
+    </data-source>
   </component>
 </application>
