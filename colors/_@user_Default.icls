@@ -3,33 +3,43 @@
     <property name="created">2020-02-10T09:30:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-09-11T09:27:51</property>
+    <property name="modified">2020-09-14T10:12:13</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fffff2" />
+        <option name="BACKGROUND" value="fffff3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f6fff6" />
+        <option name="BACKGROUND" value="f7fff7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff6ff" />
+        <option name="BACKGROUND" value="fff7ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f3fefe" />
+        <option name="BACKGROUND" value="f4fefe" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="ffe7e6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffdee0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9bcbc" />
+        <option name="BACKGROUND" value="ebdbdb" />
       </value>
     </option>
   </attributes>
