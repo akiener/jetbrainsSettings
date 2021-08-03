@@ -3,7 +3,7 @@
     <property name="created">2020-02-10T09:30:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-11-30T10:24:20</property>
+    <property name="modified">2021-08-03T13:14:16</property>
     <property name="originalScheme">Colorful Darcula</property>
   </metaInfo>
   <attributes>
@@ -134,22 +134,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="33332c" />
+        <option name="BACKGROUND" value="3a3a2c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e332e" />
+        <option name="BACKGROUND" value="313a31" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="332e33" />
+        <option name="BACKGROUND" value="3a313a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2c3232" />
+        <option name="BACKGROUND" value="2e3939" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -164,7 +164,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="392929" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
   </attributes>
