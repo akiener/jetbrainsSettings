@@ -24,5 +24,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://oilfox-db-01-do-user-4436594-0.db.ondigitalocean.com:25060/oilfox</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Staging" uuid="12e6ec02-83da-4e68-a9e5-6eff0540d5b1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://oilfox-staging.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
+    </data-source>
   </component>
 </application>
