@@ -1,9 +1,11 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="8192" />
     <option name="EDITOR_TAB_LIMIT" value="99" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="25" />
     <option name="MAX_LOOKUP_WIDTH2" value="972" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
   </component>
