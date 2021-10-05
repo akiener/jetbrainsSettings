@@ -36,5 +36,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://oilfox-staging.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PROD [ADMIN]" uuid="b3da4005-e230-4bab-a80a-7c316db75432">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://oilfox-prod-crypt.ce5oyd4r0glc.eu-central-1.rds.amazonaws.com:5432/oilfox</jdbc-url>
+    </data-source>
   </component>
 </application>
